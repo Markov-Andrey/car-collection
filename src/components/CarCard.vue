@@ -24,7 +24,7 @@
         ></div>
 
         <article
-                class="relative z-30 mx-auto my-[2vh] w-[40vw] max-w-4xl overflow-y-auto rounded-xl border border-white/10 bg-gray-900/40 p-4 shadow-2xl backdrop-blur-md text-white custom-scroll"
+                class="relative z-30 mx-auto my-[2vh] max-w-4xl w-[90vw] sm:w-[40vw] overflow-y-auto rounded-xl border border-white/10 bg-gray-900/40 p-4 shadow-2xl backdrop-blur-md text-white custom-scroll"
         >
             <div class="relative mb-4 overflow-hidden rounded-md">
                 <Splide :options="splideOptions" class="rounded-md overflow-hidden">
