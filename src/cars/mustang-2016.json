@@ -1,0 +1,27 @@
+{
+  "name": "Ford Mustang VI 5.0",
+  "year": 2016,
+  "gallery": [
+    "/assets/ford-mustang-2016/mustang7.png",
+    "/assets/ford-mustang-2016/mustang1.jpg",
+    "/assets/ford-mustang-2016/mustang2.jpg",
+    "/assets/ford-mustang-2016/mustang3.jpg",
+    "/assets/ford-mustang-2016/mustang4.jpg",
+    "/assets/ford-mustang-2016/mustang5.jpg",
+    "/assets/ford-mustang-2016/mustang6.jpg",
+    "/assets/ford-mustang-2016/mustang8.avif",
+    "/assets/ford-mustang-2016/mustang9.avif"
+  ],
+  "video": "https://www.youtube.com/embed/UzruyIE3_g0",
+  "info": {
+    "кузов": "Купе",
+    "двигатель": "5.0L V8 Coyote",
+    "мощность": "421 л.с.",
+    "макс.скорость": "250 км/ч",
+    "трансмиссия": "6MT",
+    "привод": "RWD"
+  },
+  "description": "Mustang шестого поколения — современный muscle с яркой харизмой.",
+  "notes": "Моя красавица, однажды будет моей, правда только в 2.3 версии.",
+  "hashtags": ["mustang", "american", "muscle", "v8"]
+}

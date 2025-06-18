@@ -1,0 +1,24 @@
+{
+  "name": "Nissan GT-R R35",
+  "year": 2016,
+  "gallery": [
+    "/assets/nissan-gtr-2016/gtr2.jpeg",
+    "/assets/nissan-gtr-2016/gtr1.jpeg",
+    "/assets/nissan-gtr-2016/gtr3.jpeg",
+    "/assets/nissan-gtr-2016/gtr4.jpeg",
+    "/assets/nissan-gtr-2016/gtr5.jpeg",
+    "/assets/nissan-gtr-2016/gtr6.avif"
+  ],
+  "video": "https://www.youtube.com/embed/Kw7Vii884GA",
+  "info": {
+    "кузов": "Купе",
+    "двигатель": "3.8L V6 Twin-Turbo",
+    "мощность": "550 л.с.",
+    "макс.скорость": "315 км/ч",
+    "трансмиссия": "6AT с двойным сцеплением",
+    "привод": "AWD"
+  },
+  "description": "GT-R R35 — японская легенда с суперкарной динамикой и инженерным безумием. Даже спустя годы остаётся символом высоких технологий и агрессивного стиля.",
+  "notes": "Культовый «Годзилла» из Японии. Идеален на треке и разрушителен на прямой. Надежен, как швейцарские часы, но в кузове боевой ракеты.",
+  "hashtags": ["gtr", "godzilla", "jdm", "japan"]
+}
