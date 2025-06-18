@@ -12,6 +12,4 @@ html, body, #app {
     background-color: #000;
     color: white;
 }
-h1 {
-}
 </style>
