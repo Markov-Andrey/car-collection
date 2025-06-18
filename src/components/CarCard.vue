@@ -36,21 +36,19 @@
                         />
                     </SplideSlide>
                 </Splide>
-                <div
-                    class="absolute top-2 left-1 flex w-full flex-wrap gap-2 justify-start rounded-b-md"
-                >
-          <span
-              v-for="tag in car.hashtags"
-              :key="tag"
-              class="rounded-full border border-white/20 bg-white/10 px-3 py-1 text-xs font-bold text-white backdrop-blur-sm"
-              style="text-shadow:
-              -1px -1px 0 #595959,
-               1px -1px 0 #595959,
-              -1px  1px 0 #595959,
-               1px  1px 0 #595959;"
-          >
-            #{{ tag }}
-          </span>
+                <div class="absolute top-2 left-1 flex w-full flex-wrap gap-2 justify-start rounded-b-md shadow-white/50">
+                  <span
+                    v-for="tag in car.hashtags"
+                    :key="tag"
+                    class="rounded-full shadow-md border border-white/20 bg-white/10 px-3 py-1 text-xs font-bold text-white backdrop-blur-sm"
+                    style="text-shadow:
+                      -1px -1px 0 #595959,
+                      1px -1px 0 #595959,
+                      -1px 1px 0 #595959,
+                      1px 1px 0 #595959;"
+                  >
+                    #{{ tag }}
+                  </span>
                 </div>
             </div>
             <div>
@@ -80,10 +78,10 @@ defineProps({ car: Object })
 const splideOptions = {
     type: 'loop',
     perPage: 1,
-    arrows: true,
+    arrows: false,
     pagination: false,
     autoplay: true,
-    interval: 5000,
+    interval: 4000,
     speed: 800,
     easing: 'ease-in-out',
     pauseOnHover: true,
