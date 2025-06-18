@@ -2,15 +2,15 @@
   "name": "Ford Mustang VI 5.0",
   "year": 2016,
   "gallery": [
-    "/assets/ford-mustang-2016/mustang7.png",
-    "/assets/ford-mustang-2016/mustang1.jpg",
-    "/assets/ford-mustang-2016/mustang2.jpg",
-    "/assets/ford-mustang-2016/mustang3.jpg",
-    "/assets/ford-mustang-2016/mustang4.jpg",
-    "/assets/ford-mustang-2016/mustang5.jpg",
-    "/assets/ford-mustang-2016/mustang6.jpg",
-    "/assets/ford-mustang-2016/mustang8.avif",
-    "/assets/ford-mustang-2016/mustang9.avif"
+    "assets/ford-mustang-2016/mustang7.png",
+    "assets/ford-mustang-2016/mustang1.jpg",
+    "assets/ford-mustang-2016/mustang2.jpg",
+    "assets/ford-mustang-2016/mustang3.jpg",
+    "assets/ford-mustang-2016/mustang4.jpg",
+    "assets/ford-mustang-2016/mustang5.jpg",
+    "assets/ford-mustang-2016/mustang6.jpg",
+    "assets/ford-mustang-2016/mustang8.avif",
+    "assets/ford-mustang-2016/mustang9.avif"
   ],
   "video": "https://www.youtube.com/embed/UzruyIE3_g0",
   "info": {
