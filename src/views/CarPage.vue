@@ -29,5 +29,4 @@ watch(() => route.params.id, (newId) => loadCar(newId))
 </template>
 
 <style>
-@import '@splidejs/splide/dist/css/splide.min.css';
 </style>
