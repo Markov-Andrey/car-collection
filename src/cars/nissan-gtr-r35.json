@@ -2,12 +2,12 @@
   "name": "Nissan GT-R R35",
   "year": 2016,
   "gallery": [
-    "assets/nissan-gtr-2016/gtr2.jpeg",
-    "assets/nissan-gtr-2016/gtr1.jpeg",
-    "assets/nissan-gtr-2016/gtr3.jpeg",
-    "assets/nissan-gtr-2016/gtr4.jpeg",
-    "assets/nissan-gtr-2016/gtr5.jpeg",
-    "assets/nissan-gtr-2016/gtr6.avif"
+    "assets/nissan-gtr-2016/gtr2.webp",
+    "assets/nissan-gtr-2016/gtr1.webp",
+    "assets/nissan-gtr-2016/gtr3.webp",
+    "assets/nissan-gtr-2016/gtr4.webp",
+    "assets/nissan-gtr-2016/gtr5.webp",
+    "assets/nissan-gtr-2016/gtr6.webp"
   ],
   "video": "https://www.youtube.com/embed/Kw7Vii884GA",
   "info": {
